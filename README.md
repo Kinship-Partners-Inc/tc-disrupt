@@ -20,7 +20,7 @@ Want the raw data? [Click here](https://www.dropbox.com/sh/xlvwe5bqkoy99gv/AAAUe
 
 ### Additional APIs and Datasets
 
-Pet Activity - Activity, rest, & calorie estimate for example set of [Pet Insight Project](https://www.petinsight.com/) dogs, and comparisons to similar dogs.
+[Pet Activity](https://www.dropbox.com/s/ahsoiels336wazo/Pet-Activity.csv?dl=0) - Activity, rest, & calorie estimates for example set of [Pet Insight Project](https://www.petinsight.com/) dogs, and comparisons to similar dogs.
 
 [Standford Dog Dataset](https://www.kaggle.com/jessicali9530/stanford-dogs-dataset) : 20,580 images of 120 breeds of dogs
 
@@ -49,6 +49,10 @@ Pet Activity - Activity, rest, & calorie estimate for example set of [Pet Insigh
 [Vue CLI](https://cli.vuejs.org) : The Vue.js CLI is great for quickly generating Vue based project scaffolding
 
 [Node.js Hackathon Starter](https://github.com/sahat/hackathon-starter) : A comprehensive Node.js based Hackathon project bootstrap
+
+[Vue CLI](https://cli.vuejs.org) : The Vue.js CLI is great for quickly generating Vue based project scaffolding
+
+[Vue CLI](https://cli.vuejs.org) : The Vue.js CLI is great for quickly generating Vue based project scaffolding
 
 ### UI Frameworks
 
