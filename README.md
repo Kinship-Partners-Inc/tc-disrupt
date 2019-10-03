@@ -32,8 +32,6 @@ Want the raw data? [Click here](https://www.dropbox.com/sh/xlvwe5bqkoy99gv/AAAUe
 
 [Petfinder API](https://www.petfinder.com/developers/api-docs) : The petfinder API lets you search pets that are up for adoption by breed, pet, shelter, or by breed/pet at a specific shelter
 
-[Nutritional Information](https://documenter.getpostman.com/view/2237155/SVmvTJih?version=latest) : Additional nutritional information API
-
 ### Helpful Lists and Links
 
 [VCA Hospitals](https://vcahospitals.com/find-a-hospital/location-directory) : List of all VCA Hospitals
